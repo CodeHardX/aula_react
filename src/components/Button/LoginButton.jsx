@@ -1,4 +1,4 @@
-import styles from './Alerta.module.css'
+import styles from './Button.module.css'
 
 function LoginButton(){
     return (
